@@ -1,4 +1,4 @@
-# tsf_internship
+# THE SPARKS FOUNDATION INTERNSHIP
 This internship was all about data science and business analytics.
 I applied for this internship from the website of The Sparks Foundation.
 There were total 8 data science and business analytics tasks. Out of 8, data science and business analytics interns needed to complete at least 1. I completed 6 tasks.
